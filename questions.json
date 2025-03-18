@@ -1,0 +1,182 @@
+{
+  "Fun": {
+    "categories": ["General", "Entertainment", "Sports", "Technology", "Food"],
+    "categoryDetails": {
+      "General": {
+        "description": "Fun questions for everyone",
+        "emoji": "🎮",
+        "questions": [
+          "What's the strangest dream you've ever had?",
+          "If you could have any superpower, what would it be?",
+          "What's your go-to karaoke song?",
+          "If you could eat only one food for the rest of your life, what would it be?",
+          "What's the most embarrassing thing that happened to you in school?"
+        ]
+      },
+      "Entertainment": {
+        "description": "Movies, music, and pop culture",
+        "emoji": "🎬",
+        "questions": [
+          "What's the best movie you've seen this year?",
+          "Which fictional character would you want as your best friend?",
+          "What's a TV show you can watch over and over again?",
+          "What concert would you time travel to attend?",
+          "Who's your favorite fictional villain?"
+        ]
+      },
+      "Sports": {
+        "description": "All about sports and games",
+        "emoji": "⚽",
+        "questions": [
+          "What sport would you compete in if you were in the Olympics?",
+          "What's your favorite sports memory?",
+          "If you could be a professional athlete, which sport would you choose?",
+          "What's the most extreme sport you'd try?",
+          "Which team has the best fans?"
+        ]
+      },
+      "Technology": {
+        "description": "Tech and gadget questions",
+        "emoji": "📱",
+        "questions": [
+          "What tech invention has impacted your life the most?",
+          "If you had to give up all technology except one thing, what would you keep?",
+          "What futuristic technology are you most excited about?",
+          "What's your favorite app and why?",
+          "Do you think robots will take over one day?"
+        ]
+      },
+      "Food": {
+        "description": "Culinary questions and taste",
+        "emoji": "🍔",
+        "questions": [
+          "What's your ultimate comfort food?",
+          "What food combination do you love that others find strange?",
+          "If you could master cooking one cuisine, which would it be?",
+          "What's the most memorable meal you've ever had?",
+          "Sweet or savory breakfast person?"
+        ]
+      }
+    }
+  },
+  "Deep": {
+    "categories": ["Personal", "Philosophical", "Spiritual", "Ethical", "Reflective"],
+    "categoryDetails": {
+      "Personal": {
+        "description": "Get to know yourself better",
+        "emoji": "🧠",
+        "questions": [
+          "What's something you've never told anyone?",
+          "When was the last time you changed your opinion about something major?",
+          "What part of your life needs more attention right now?",
+          "What would your younger self think of you today?",
+          "What's the biggest risk you've ever taken?"
+        ]
+      },
+      "Philosophical": {
+        "description": "Think deeply about life",
+        "emoji": "💭",
+        "questions": [
+          "Do you believe in fate or do we create our own destiny?",
+          "Is it better to be loved or respected?",
+          "What makes someone a good person?",
+          "Does true altruism exist?",
+          "Is happiness a choice?"
+        ]
+      },
+      "Spiritual": {
+        "description": "Questions about faith and meaning",
+        "emoji": "✨",
+        "questions": [
+          "What gives your life meaning?",
+          "Do you believe in something greater than yourself?",
+          "How do you find peace in difficult times?",
+          "What's your relationship with spirituality?",
+          "Do you think everything happens for a reason?"
+        ]
+      },
+      "Ethical": {
+        "description": "Moral dilemmas and choices",
+        "emoji": "⚖️",
+        "questions": [
+          "Is it ever okay to lie?",
+          "If you could change one problem in the world, what would it be?",
+          "Do the ends justify the means?",
+          "What's your strongest held belief?",
+          "Is there such thing as objective right and wrong?"
+        ]
+      },
+      "Reflective": {
+        "description": "Look back on your experiences",
+        "emoji": "🔍",
+        "questions": [
+          "What's your biggest regret?",
+          "What moment changed your life forever?",
+          "What lesson took you the longest to learn?",
+          "What would you tell your younger self?",
+          "What's something you're still trying to prove to yourself?"
+        ]
+      }
+    }
+  },
+  "Romantic": {
+    "categories": ["Dating", "Relationships", "Intimacy", "Communication", "Future"],
+    "categoryDetails": {
+      "Dating": {
+        "description": "Perfect for date night",
+        "emoji": "❤️",
+        "questions": [
+          "What was your first impression of me?",
+          "What's your idea of a perfect date?",
+          "When did you know you had feelings for me?",
+          "What's the most romantic gesture you've experienced?",
+          "What's something you're afraid to tell me?"
+        ]
+      },
+      "Relationships": {
+        "description": "Strengthen your bond",
+        "emoji": "💖",
+        "questions": [
+          "What makes you feel most loved?",
+          "What's one thing you want me to work on in our relationship?",
+          "What's your favorite memory of us?",
+          "When do you feel closest to me?",
+          "What's something I do that you appreciate but haven't told me about?"
+        ]
+      },
+      "Intimacy": {
+        "description": "Deepen your connection",
+        "emoji": "💕",
+        "questions": [
+          "What do you find most attractive about me?",
+          "What's something you've always wanted to try together?",
+          "What makes you feel most connected to me?",
+          "What's a fantasy you've never shared with me?",
+          "How do you define intimacy beyond the physical?"
+        ]
+      },
+      "Communication": {
+        "description": "Improve how you talk and listen",
+        "emoji": "💬",
+        "questions": [
+          "How do you prefer I bring up difficult topics?",
+          "What's something you wish I understood better about you?",
+          "How can I better support you when you're stressed?",
+          "What's a boundary you need that you haven't expressed?",
+          "What's your love language?"
+        ]
+      },
+      "Future": {
+        "description": "Plans and dreams together",
+        "emoji": "🔮",
+        "questions": [
+          "Where do you see us in five years?",
+          "What's something you want to achieve together?",
+          "What kind of lifestyle do you want in the future?",
+          "What are you most excited about for our future?",
+          "What's one thing you want to make sure we never lose in our relationship?"
+        ]
+      }
+    }
+  }
+}
