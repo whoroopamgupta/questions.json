@@ -420,11 +420,11 @@
     }
   },
   "Romantic": {
-    "categories": ["Dating", "Relationships", "Intimacy", "Communication", "Future"],
+    "categories": ["Spill the Tea", "Juicy Convos", "Confessions", "Spicy Questions", "Would You Rather"],
     "categoryDetails": {
-      "Dating": {
-        "description": "Perfect for date night",
-        "emoji": "❤️",
+      "Spill the Tea": {
+        "description": "pov: you just had an hour-long gossip session",
+        "emoji": "😈",
         "questions": [
           "What was your first impression of me?",
           "What's your idea of a perfect date?",
@@ -433,9 +433,9 @@
           "What's something you're afraid to tell me?"
         ]
       },
-      "Relationships": {
-        "description": "Strengthen your bond",
-        "emoji": "💖",
+      "Juicy Convos": {
+        "description": "All about relationships, cheating, and exes!",
+        "emoji": "🍑",
         "questions": [
           "What makes you feel most loved?",
           "What's one thing you want me to work on in our relationship?",
@@ -444,9 +444,9 @@
           "What's something I do that you appreciate but haven't told me about?"
         ]
       },
-      "Intimacy": {
-        "description": "Deepen your connection",
-        "emoji": "💕",
+      "Confessions": {
+        "description": "Expose your hidden secrets, no one is safe.",
+        "emoji": "🤫",
         "questions": [
           "What do you find most attractive about me?",
           "What's something you've always wanted to try together?",
@@ -455,9 +455,9 @@
           "How do you define intimacy beyond the physical?"
         ]
       },
-      "Communication": {
-        "description": "Improve how you talk and listen",
-        "emoji": "💬",
+      "Spicy Questions": {
+        "description": "Turn up the heat with - extra risque dares.",
+        "emoji": "🥵",
         "questions": [
           "How do you prefer I bring up difficult topics?",
           "What's something you wish I understood better about you?",
@@ -466,9 +466,9 @@
           "What's your love language?"
         ]
       },
-      "Future": {
-        "description": "Plans and dreams together",
-        "emoji": "🔮",
+      "Would You Rather": {
+        "description": "The classic game but much more intense.",
+        "emoji": "🙋‍♂️",
         "questions": [
           "Where do you see us in five years?",
           "What's something you want to achieve together?",
