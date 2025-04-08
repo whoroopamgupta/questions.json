@@ -4,7 +4,7 @@
     "categoryDetails": {
       "Deep Questions": {
         "description": "Questions that hit deep.",
-        "emoji": "🎮",
+        "emoji": "✨",
         "questions": [
   "What memory always brings tears to your eyes, even if it's happy?",
   "If you could write a letter to your younger self, what would the first sentence be?",
@@ -45,7 +45,7 @@
       },
       "Late Night Talks": {
         "description": "Get to knwo each other - for real.",
-        "emoji": "🎬",
+        "emoji": "🌙",
         "questions": [
           "What's the best movie you've seen this year?",
           "Which fictional character would you want as your best friend?",
@@ -56,7 +56,7 @@
       },
       "For Best Friends": {
         "description": "How well do you really know them?",
-        "emoji": "⚽",
+        "emoji": "✌️",
         "questions": [
           "What sport would you compete in if you were in the Olympics?",
           "What's your favorite sports memory?",
@@ -67,7 +67,7 @@
       },
       "Getting to Know": {
         "description": "Questions to meet someone new.",
-        "emoji": "📱",
+        "emoji": "🧑‍🤝‍🧑",
         "questions": [
           "What tech invention has impacted your life the most?",
           "If you had to give up all technology except one thing, what would you keep?",
@@ -78,7 +78,7 @@
       },
       "For Siblings": {
         "description": "Ask each other before it's too late.",
-        "emoji": "🍔",
+        "emoji": "🖤",
         "questions": [
           "What's your ultimate comfort food?",
           "What food combination do you love that others find strange?",
