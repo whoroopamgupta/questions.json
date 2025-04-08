@@ -1,20 +1,50 @@
 {
-  "Fun2sh": {
-    "categories": ["General", "Entertainment", "Sports", "Technology", "Food"],
+  "Deep": {
+    "categories": ["Deep Questions", "Late Night Talks", "For Best Friends", "Getting to Know", "For Siblings"],
     "categoryDetails": {
-      "General": {
-        "description": "Fun questions for everyone",
+      "Deep Questions": {
+        "description": "Questions that hit deep.",
         "emoji": "🎮",
         "questions": [
-          "What's the strangest dream you've ever had?",
-          "If you could have any superpower, what would it be?",
-          "What's your go-to karaoke song?",
-          "If you could eat only one food for the rest of your life, what would it be?",
-          "What's the most embarrassing thing that happened to you in school?"
-        ]
+  "What memory always brings tears to your eyes, even if it's happy?",
+  "If you could write a letter to your younger self, what would the first sentence be?",
+  "What's one thing you wish you had said but never did?",
+  "Have you ever felt completely understood by someone? What was that moment like?",
+  "What's something you pretend to be okay with but secretly aren’t?",
+  "What part of your personality do you hide from most people?",
+  "When was the last time you truly felt at peace?",
+  "What's a truth about yourself you're still learning to accept?",
+  "What’s the loneliest moment you've ever had?",
+  "What emotion do you run away from the most?",
+  "What's something you envy in others but rarely admit?",
+  "Who hurt you the most unintentionally? What did they do?",
+  "What do you think is your most misunderstood trait?",
+  "If you disappeared tomorrow, who would notice first?",
+  "When do you feel most like yourself?",
+  "Have you ever held back love because you were afraid it wouldn’t be returned?",
+  "What version of you do you miss the most?",
+  "When was the last time you felt truly brave?",
+  "What’s a beautiful moment you never shared with anyone?",
+  "What does forgiveness mean to you?",
+  "What’s a part of your past you never talk about?",
+  "What’s something you wish your parents had told you more often?",
+  "What feeling are you chasing in life?",
+  "Have you ever felt like giving up on everything? What stopped you?",
+  "What belief did you grow up with that you no longer hold?",
+  "What do you think people assume about you that’s completely wrong?",
+  "If your walls could talk, what would they say about you?",
+  "When was the last time you were truly proud of yourself?",
+  "If someone could see your soul, what color would it be and why?",
+  "What moment changed your view on love forever?",
+  "What's something you've never fully healed from?",
+  "What do you crave more than anything else in life?",
+  "What’s the hardest truth you’ve had to accept about someone you love?",
+  "What’s a dream you’ve quietly let go of?",
+  "Who are you when no one’s watching?"
+]
       },
-      "Entertainment": {
-        "description": "Movies, music, and pop culture",
+      "Late Night Talks": {
+        "description": "Get to knwo each other - for real.",
         "emoji": "🎬",
         "questions": [
           "What's the best movie you've seen this year?",
@@ -24,8 +54,8 @@
           "Who's your favorite fictional villain?"
         ]
       },
-      "Sports": {
-        "description": "All about sports and games",
+      "For Best Friends": {
+        "description": "How well do you really know them?",
         "emoji": "⚽",
         "questions": [
           "What sport would you compete in if you were in the Olympics?",
@@ -35,8 +65,8 @@
           "Which team has the best fans?"
         ]
       },
-      "Technology": {
-        "description": "Tech and gadget questions",
+      "Getting to Know": {
+        "description": "Questions to meet someone new.",
         "emoji": "📱",
         "questions": [
           "What tech invention has impacted your life the most?",
@@ -46,8 +76,8 @@
           "Do you think robots will take over one day?"
         ]
       },
-      "Food": {
-        "description": "Culinary questions and taste",
+      "For Siblings": {
+        "description": "Ask each other before it's too late.",
         "emoji": "🍔",
         "questions": [
           "What's your ultimate comfort food?",
@@ -59,11 +89,11 @@
       }
     }
   },
-  "Deep": {
-    "categories": ["Personal", "Philosophical", "Spiritual", "Ethical", "Reflective"],
+  "Couple": {
+    "categories": ["Couple Questions", "For Soulmates", "Couple Therapy", "For Long-Distance", "Naughty Questions"],
     "categoryDetails": {
-      "Personal": {
-        "description": "Get to know yourself better",
+      "Couple Questions": {
+        "description": "Questions that will leave you feeling closer.",
         "emoji": "🧠",
         "questions": [
           "What's something you've never told anyone?",
@@ -73,8 +103,8 @@
           "What's the biggest risk you've ever taken?"
         ]
       },
-      "Philosophical": {
-        "description": "Think deeply about life",
+      "For Soulmates": {
+        "description": "Get real, vulnerable and - deepen your love.",
         "emoji": "💭",
         "questions": [
           "Do you believe in fate or do we create our own destiny?",
@@ -84,8 +114,8 @@
           "Is happiness a choice?"
         ]
       },
-      "Spiritual": {
-        "description": "Questions about faith and meaning",
+      "Couple Therapy": {
+        "description": "Deep & rarely-asked questions. Meant to heal.",
         "emoji": "✨",
         "questions": [
           "What gives your life meaning?",
@@ -95,8 +125,8 @@
           "Do you think everything happens for a reason?"
         ]
       },
-      "Ethical": {
-        "description": "Moral dilemmas and choices",
+      "For Long-Distance": {
+        "description": "Warning: this will make it difficult to hang up.",
         "emoji": "⚖️",
         "questions": [
           "Is it ever okay to lie?",
@@ -106,8 +136,8 @@
           "Is there such thing as objective right and wrong?"
         ]
       },
-      "Reflective": {
-        "description": "Look back on your experiences",
+      "Fav Questions": {
+        "description": "Questions for every couple's favorite subject.",
         "emoji": "🔍",
         "questions": [
           "What's your biggest regret?",
