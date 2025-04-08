@@ -90,7 +90,7 @@
     }
   },
   "Couple": {
-    "categories": ["Couple Questions", "For Soulmates", "Couple Therapy", "For Long-Distance", "Naughty Questions"],
+    "categories": ["Couple Questions", "For Soulmates", "Couple Therapy", "For Long-Distance", "Fav Questions"],
     "categoryDetails": {
       "Couple Questions": {
         "description": "Questions that will leave you feeling closer.",
