@@ -90,7 +90,7 @@
     }
   },
   "Couple": {
-    "categories": ["Couple Questions", "For Soulmates", "Couple Therapy", "For Long-Distance", "Fav Questions"],
+    "categories": ["Couple Questions", "For Soulmates", "Couple Therapy", "For Long-Distance", "Favorite Questions"],
     "categoryDetails": {
       "Couple Questions": {
         "description": "Questions that will leave you feeling closer.",
@@ -136,7 +136,7 @@
           "Is there such thing as objective right and wrong?"
         ]
       },
-      "Fav Questions": {
+      "Favorite Questions": {
         "description": "Questions for every couple's favorite subject.",
         "emoji": "🔍",
         "questions": [
