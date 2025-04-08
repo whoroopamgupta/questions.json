@@ -210,11 +210,11 @@
     }
   },
   "Couple": {
-    "categories": ["Couple Questions", "For Soulmates", "Couple Therapy", "For Long-Distance", "Favorite Questions"],
+    "categories": ["Couple Questions", "For Soulmates", "Couple Therapy", "For Long-Distance", "Naughty Questions"],
     "categoryDetails": {
       "Couple Questions": {
         "description": "Questions that will leave you feeling closer.",
-        "emoji": "🧠",
+        "emoji": "💌",
         "questions": [
   "When did you first realize this relationship was serious?",
   "What’s something small I do that makes you feel deeply loved?",
@@ -255,7 +255,7 @@
       },
       "For Soulmates": {
         "description": "Get real, vulnerable and - deepen your love.",
-        "emoji": "💭",
+        "emoji": "💞",
         "questions": [
           "Do you believe in fate or do we create our own destiny?",
           "Is it better to be loved or respected?",
@@ -266,7 +266,7 @@
       },
       "Couple Therapy": {
         "description": "Deep & rarely-asked questions. Meant to heal.",
-        "emoji": "✨",
+        "emoji": "🤍",
         "questions": [
           "What gives your life meaning?",
           "Do you believe in something greater than yourself?",
@@ -277,7 +277,7 @@
       },
       "For Long-Distance": {
         "description": "Warning: this will make it difficult to hang up.",
-        "emoji": "⚖️",
+        "emoji": "📹",
         "questions": [
           "Is it ever okay to lie?",
           "If you could change one problem in the world, what would it be?",
@@ -286,9 +286,9 @@
           "Is there such thing as objective right and wrong?"
         ]
       },
-      "Favorite Questions": {
+      "Naughty Questions": {
         "description": "Questions for every couple's favorite subject.",
-        "emoji": "🔍",
+        "emoji": "💋",
         "questions": [
           "What's your biggest regret?",
           "What moment changed your life forever?",
